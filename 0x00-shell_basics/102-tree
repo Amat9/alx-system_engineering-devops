@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir --parent welcome/to/school
